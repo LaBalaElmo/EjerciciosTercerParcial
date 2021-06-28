@@ -1,0 +1,8 @@
+Se tiene una empresa que realiza instalacion electrica (agregar atributos,
+precio) , instalación de agua(agregar atributos,precio) e instalación de alcantarillado
+(agregar atributos, precio), originalmente solo acepta pagos de estos servicios en
+efectivo, pero luego se necesita tener nuevas formas de pago que no necesita presencia
+como ser: pago por transferencia bancaria (tiene descuento del 5% del precio de la
+instalación), pago por tigo money (tiene descuento del 2%), pago usando la aplicación
+de la empresa(tiene descuento de 10%)
+nota: tome en cuenta que posteriormente se pueden agregar mas formas de pago

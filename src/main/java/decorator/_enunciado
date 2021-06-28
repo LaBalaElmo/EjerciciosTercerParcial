@@ -1,0 +1,9 @@
+Se tiene el juego de mundo warcraft donde creamos un personaje con
+características básicas como ser : nombre, nivel, armas, porcentaje de armadura,
+puntos ataque, puntos de defensa, puntos de regeneración de vida. cuando se crea a
+este personaje los puntos y porcentaje de armadura inician en 1%, necesitamos agregar
+nuevas habilidades cuando el personaje va subiendo de nivel, cuando se le agrega al
+personaje un arma (espada, hacha, escopeta) su puntos de ataque suben en un 30% y
+su nivel se incrementa al doble, cuando se agrega un escudo sus puntos de defensa
+crecen un 35% y su porcentaje de armadura crece en un 10%, cuando se agregan
+posiciones de curación sus puntos de regeneración suben aun 80%.

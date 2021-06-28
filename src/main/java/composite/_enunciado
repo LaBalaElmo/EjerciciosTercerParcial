@@ -1,0 +1,5 @@
+Se tiene un archivo como objeto base, un conjunto de archivos se los
+guarda en folders y varios folders se lo guardan en una unidad de disco, Lo que
+podemos obtener de un archivo es el número de palabras que tiene el archivo.
+Debemos de obtener el número de palabras que hay en un folder y en una unidad de
+disco.
